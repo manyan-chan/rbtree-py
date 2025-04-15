@@ -5,7 +5,7 @@ A Python implementation of a Red-Black Tree data structure.
 
 from .tree import BLACK, RED, RBNode, RedBlackTree
 
-__version__ = "0.1.3"
+__version__ = "0.1.4"
 
 __all__ = [
     "RedBlackTree",
