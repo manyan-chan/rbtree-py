@@ -3,9 +3,9 @@
 A Python implementation of a Red-Black Tree data structure.
 """
 
-from .tree import RedBlackTree, RBNode, RED, BLACK
+from .tree import BLACK, RED, RBNode, RedBlackTree
 
-__version__ = "0.1.2"
+__version__ = "0.1.3"
 
 __all__ = [
     "RedBlackTree",
