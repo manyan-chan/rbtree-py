@@ -27,13 +27,13 @@ pip install rbtree-py
 Or, install directly from the source repository:
 
 ```bash
-pip install git+https://github.com/manyan-chan/rbtree-py.git # Update USERNAME/REPO
+pip install git+https://github.com/manyan-chan/rbtree-py.git
 ```
 
 For local development, clone the repository and install in editable mode:
 
 ```bash
-git clone https://github.com/manyan-chan/rbtree-py.git # Update USERNAME/REPO
+git clone https://github.com/manyan-chan/rbtree-py.git
 cd rbtree-py
 pip install -e .[test]
 ```
@@ -118,12 +118,6 @@ The package uses `pytest` for testing. To run the tests:
 
 ```bash
 pytest
-```
-
-You can also run with coverage:
-
-```bash
-pytest --cov=redblacktree --cov-report=term-missing
 ```
 
 ## Contributing
