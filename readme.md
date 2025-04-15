@@ -1,7 +1,7 @@
 # Python Red-Black Tree (rbtree-py)
 
 [![PyPI version](https://badge.fury.io/py/rbtree-py.svg)](https://badge.fury.io/py/rbtree-py) <!-- Placeholder: Update link if/when published -->
-[![CI Status](https://github.com/yourusername/rbtree-py/actions/workflows/python-package.yml/badge.svg)](https://github.com/yourusername/rbtree-py/actions/workflows/python-package.yml) <!-- Update USERNAME/REPO -->
+[![CI Status](https://github.com/manyan-chan/rbtree-py/actions/workflows/python-package.yml/badge.svg)](https://github.com/manyan-chan/rbtree-py/actions/workflows/python-package.yml) <!-- Update USERNAME/REPO -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python Versions](https://img.shields.io/pypi/pyversions/rbtree-py.svg) <!-- Placeholder -->
 
@@ -27,13 +27,13 @@ pip install rbtree-py
 Or, install directly from the source repository:
 
 ```bash
-pip install git+https://github.com/yourusername/rbtree-py.git # Update USERNAME/REPO
+pip install git+https://github.com/manyan-chan/rbtree-py.git # Update USERNAME/REPO
 ```
 
 For local development, clone the repository and install in editable mode:
 
 ```bash
-git clone https://github.com/yourusername/rbtree-py.git # Update USERNAME/REPO
+git clone https://github.com/manyan-chan/rbtree-py.git # Update USERNAME/REPO
 cd rbtree-py
 pip install -e .[test]
 ```
