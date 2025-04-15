@@ -5,9 +5,9 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rbtree-py"
-version = "0.1.1"
+version = "0.1.2"
 authors = [
-  { name="Your Name", email="your.email@example.com" },
+  { name="richard.mychan", email="richard.mychan@gmail.com" },
 ]
 description = "A Python implementation of a Red-Black Tree data structure."
 readme = { file="README.md", content-type="text/markdown" }
@@ -30,8 +30,8 @@ classifiers = [
 keywords = ["red-black tree", "rbtree", "binary search tree", "bst", "data structure", "balanced tree"]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/rbtree-py"  # Replace with your repo URL
-Repository = "https://github.com/yourusername/rbtree-py" # Replace with your repo URL
+Homepage = "https://github.com/manyan-chan/rbtree-py"  # Replace with your repo URL
+Repository = "https://github.com/manyan-chan/rbtree-py" # Replace with your repo URL
 
 # Optional dependencies for testing
 [project.optional-dependencies]
